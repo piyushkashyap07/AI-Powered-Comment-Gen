@@ -1,4 +1,4 @@
-### Linkedin Engagement
+### AI Powered Comment Generated
 
 # Project Setup Guide
 
@@ -10,8 +10,8 @@ This guide will walk you through the steps to set up and run the project locally
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/piyushkashyap07/linkedinEngage.git
-cd linkedinEngage
+https://github.com/piyushkashyap07/AI-Powered-Comment-Gen.git
+cd AI-Powered-Comment-Generation
 ```
 
 ### 2. Obtain Your Gemini API Key

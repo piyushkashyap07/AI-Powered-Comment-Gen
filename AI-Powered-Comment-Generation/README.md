@@ -10,7 +10,13 @@ A Chrome extension that uses AI to automatically generate meaningful code commen
 - Customizable comment styles and formats
 - Powered by Google's Gemini API
 
-## Demo Screenshots
+## Demo
+
+### Video Walkthrough
+Check out this video demonstration for a detailed explanation of our approach and execution:
+[AI-Powered Comment Generator - Walkthrough Video](https://www.loom.com/share/d84a9617032148789e8b6e62433c002c)
+
+### Screenshots
 
 ![Comment Generation Demo](Backend/images/image%20(2).png)
 ![Comment Generation Result](Backend/images/image%20(4).png)
